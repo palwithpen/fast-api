@@ -1,0 +1,5 @@
+# to install dependecies
+pip3 install -r .\requirement.txt
+
+# to start server
+python.exe app.py
